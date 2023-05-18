@@ -27,27 +27,33 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 
 #### Association(关联)
 
-![image-20230518133615844](assets/image-20230518133615844.png)
+![image-20230518163948205](assets/image-20230518163948205.png)
 
 #### Dependency（依赖）
 
-![image-20230518134222700](assets/image-20230518134222700.png)
+![image-20230518164014634](assets/image-20230518164014634.png)
 
 #### Aggregation（聚合）
 
-![image-20230518134427265](assets/image-20230518134427265.png)
+![image-20230518164147028](assets/image-20230518164147028.png)
 
 #### Composition（组合）
 
-![image-20230518134447521](assets/image-20230518134447521.png)
+A special aggregation relationship of strong dependence. If B does not exist, the part does not exist. For example, the company does not exist, and the department will also cease to exist;
+
+![image-20230518164336304](assets/image-20230518164336304.png)
 
 #### Realization（实现）
 
-![image-20230518134501024](assets/image-20230518134501024.png)
+Inherit abstract class.
+
+![image-20230518164118923](assets/image-20230518164118923.png)
 
 #### Generalization（泛化）
 
-![image-20230518133955253](assets/image-20230518133955253.png)
+Inherit non-abstract class.
+
+![image-20230518164217450](assets/image-20230518164217450.png)
 
 ## Design Patterns
 
@@ -78,3 +84,5 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 https://www.ibm.com/docs/en/rsar/9.5
 
 https://zhuanlan.zhihu.com/p/109655171
+
+https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
