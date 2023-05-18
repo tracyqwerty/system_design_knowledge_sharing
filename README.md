@@ -2,7 +2,9 @@
 
 # System Design Knowledge Sharing
 
-Everything we need to know about system design. Powered by ChatGPT4. >w<
+Everything we need to know about system design. Codes are mostly in C++.  
+
+Powered by ChatGPT4. >w<
 
 ## Unified Modeling Language (UML)
 
@@ -64,6 +66,8 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 [`decorator`](docs/decorator.md)
 
 [`strategy`](docs/strategy.md)
+
+[`singleton`](docs/singleton.md)
 
 ## Reference
 
