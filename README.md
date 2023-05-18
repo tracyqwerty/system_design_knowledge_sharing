@@ -49,9 +49,21 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 
 ## Design Patterns
 
-### Visitor
+[`visitor`](docs/visitor.md)
 
+[`observer`](docs/observer.md)
 
+[`iterator`](docs/iterator.md)
+
+[`composite`](docs/composite.md)
+
+[`adapter`](docs/adapter.md)
+
+[`command`](docs/command.md)
+
+[`decorator`](docs/decorator.md)
+
+[`strategy`](docs/strategy.md)
 
 ## Reference
 
