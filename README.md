@@ -69,6 +69,10 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 
 [`singleton`](docs/singleton.md)
 
+[`test driven development(TDD)`](docs/tdd.md)
+
+[`factory`](docs/factory.md)
+
 ## Reference
 
 https://www.ibm.com/docs/en/rsar/9.5
