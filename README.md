@@ -25,9 +25,11 @@ If something is *Italic*, it means that the thing is abstract, or is an interfac
 
 ### Relationships
 
+![image-20230518163948205](assets/image-20230518163948205.png)
+
 #### Association(关联)
 
-![image-20230518163948205](assets/image-20230518163948205.png)
+![image-20230519114658854](assets/image-20230519114658854.png)
 
 #### Dependency（依赖）
 
@@ -78,6 +80,24 @@ Inherit non-abstract class.
 [`test driven development(TDD)`](docs/tdd.md)
 
 [`factory`](docs/factory.md)
+
+[`cohesion & coupling`](docs/cohesion&coupling.md)
+
+## How to handle real-life questions
+
+https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/xVXol171Ex9
+* **understand** the design problem and its requirements(functional & nonfunctional ).
+* **handle data** (size, grow rate, usage, read/write heavy, consistency, privacy, etc)
+* **components**
+* **tradeoffs**
+
+## Resources
+
+https://www.educative.io/courses/grokking-the-system-design-interview ( best for junior)
+
+https://bestresources.co/resource/best-handpicked-system-design-interesting-reads-qvbimi
+
+
 
 ## Reference
 
