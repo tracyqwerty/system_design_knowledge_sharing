@@ -6,6 +6,10 @@ Everything we need to know about system design. Codes are mostly in C++.
 
 Powered by ChatGPT4. >w<
 
+# DDIA
+
+
+
 ## Unified Modeling Language (UML)
 
 UML is a standardized modeling language that is used to visualize the design of a system. It is commonly used in software engineering. 
